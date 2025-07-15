@@ -1,10 +1,9 @@
-Echo
+Recho
 ====
 
-Time travelling recorder for Android.
-It is free/libre and gratis software.
+A personal project of learning Java by forking the *Time travelling recorder for Android* **(echo)**.
 
-Download
+Download the Original
 ---
 
 * [F-Droid](https://f-droid.org/repository/browse/?fdid=eu.mrogalski.saidit)
